@@ -13,6 +13,11 @@ Sou graduada em Marketing Digital pela Universidade Estácio de Sá, com 6 anos 
 
 ## Projetos
 
+### Dashboard de Análise de Vendas (Power BI)
+Projeto de Business Intelligence desenvolvido no Power BI, envolvendo tratamento de dados no Power Query, modelagem dimensional, criação de métricas em DAX e desenvolvimento de dashboards para análise de faturamento, custos, lucro e desempenho comercial.
+
+🔗 [Ver projeto](https://github.com/Jucastilla/analise-vendas-powerbi)
+
 ### Calculadora em Python
 Projeto de calculadora desenvolvido em Python, utilizando lógica de programação e operações matemáticas básicas.
 
