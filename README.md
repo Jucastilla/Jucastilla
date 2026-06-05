@@ -21,13 +21,13 @@ Projeto de Business Intelligence desenvolvido no Power BI, envolvendo tratamento
 ### Calculadora em Python
 Projeto de calculadora desenvolvido em Python, utilizando lógica de programação e operações matemáticas básicas.
 
-🔗 [Ver projeto](https://github.com/Jucastilla/projeto-calculadora)
+🔗 [Ver projeto](https://github.com/Jucastilla/calculadora-python-linux)
 
 
 ### Calculadora no Linux
 Projeto de calculadora executado em ambiente Linux, com foco em linha de comando, terminal e estrutura de sistemas.
 
-🔗 [Ver projeto](https://github.com/Jucastilla/projeto-calculadora)
+🔗 [Ver projeto](https://github.com/Jucastilla/calculadora-python-linux)
 
 
 ## Contatos
