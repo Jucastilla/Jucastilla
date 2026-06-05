@@ -18,6 +18,11 @@ Projeto de Business Intelligence desenvolvido no Power BI, envolvendo tratamento
 
 🔗 [Ver projeto](https://github.com/Jucastilla/analise-vendas-powerbi)
 
+### Análise de Dados e Gestão de Restaurante com SQL
+Projeto desenvolvido em MySQL para modelagem, manipulação e análise de dados em um cenário de gestão de restaurante, aplicando conceitos de banco de dados relacional, consultas SQL, funções de agregação, JOINs, Views e Stored Functions para geração de informações e apoio à tomada de decisão.
+
+🔗 [Ver projeto](https://github.com/Jucastilla/analise-dados-restaurante-sql)
+
 ### Calculadora em Python e Linux
 
 Projeto desenvolvido em Python e Linux com foco em lógica de programação, execução de scripts via terminal, manipulação de permissões e fundamentos de automação em ambiente Ubuntu/WSL.
