@@ -13,6 +13,12 @@ Sou graduada em Marketing Digital pela Universidade Estácio de Sá, com 6 anos 
 
 ## Projetos
 
+### Análise da Insatisfação dos Consumidores no E-commerce com Python
+
+Projeto de análise de dados desenvolvido em Python no Google Colab, envolvendo tratamento e preparação de dados, análise exploratória, modelagem preditiva e desenvolvimento de dashboard no Looker Studio para identificar fatores relacionados à insatisfação dos consumidores.
+
+🔗 [Ver projeto](https://github.com/Jucastilla/semantix-data-project/tree/main)
+
 ### Análise Estratégica de Vendas com Power BI
 Projeto de Business Intelligence desenvolvido no Power BI, envolvendo tratamento de dados no Power Query, modelagem dimensional, criação de métricas em DAX e desenvolvimento de dashboards para análise de faturamento, custos, lucro e desempenho comercial.
 
@@ -23,11 +29,6 @@ Projeto desenvolvido em MySQL para modelagem, manipulação e análise de dados 
 
 🔗 [Ver projeto](https://github.com/Jucastilla/analise-dados-restaurante-sql)
 
-### Calculadora em Python e Linux
-
-Projeto desenvolvido em Python e Linux com foco em lógica de programação, execução de scripts via terminal, manipulação de permissões e fundamentos de automação em ambiente Ubuntu/WSL.
-
-🔗 [Ver projeto](https://github.com/Jucastilla/calculadora-python-linux)
 
 
 ## Contatos
