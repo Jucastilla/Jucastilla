@@ -13,7 +13,7 @@ Sou graduada em Marketing Digital pela Universidade Estácio de Sá, com 6 anos 
 
 ## Projetos
 
-### Análise da Insatisfação dos Consumidores no E-commerce com Python
+### Análise da Insatisfação no E-commerce com Python
 
 Projeto de análise de dados desenvolvido em Python no Google Colab, envolvendo tratamento e preparação de dados, análise exploratória, modelagem preditiva e desenvolvimento de dashboard no Looker Studio para identificar fatores relacionados à insatisfação dos consumidores.
 
