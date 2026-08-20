@@ -35,7 +35,11 @@ Projeto desenvolvido em MySQL para modelagem, manipulação e análise de dados 
 
 🔗 [Ver projeto](https://github.com/Jucastilla/analise-dados-restaurante-sql)
 
+### Calculadora em Python e Linux
 
+Projeto desenvolvido com **Python, Shell Script e Linux**, aplicando conceitos fundamentais de lógica de programação e automação em linha de comando. A solução inclui uma calculadora interativa em Python e um script Shell para execução via terminal, envolvendo estruturas condicionais e de repetição, validação de dados e gerenciamento de permissões no Linux.
+
+🔗 [Ver projeto](https://github.com/Jucastilla/calculadora-python-linux)
 
 ## Contatos
 
