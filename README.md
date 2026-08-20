@@ -13,6 +13,12 @@ Sou graduada em Marketing Digital pela Universidade Estácio de Sá, com 6 anos 
 
 ## Projetos
 
+### Análise de Engajamento do Hacker News com SQL
+
+Projeto de análise de dados desenvolvido com **SQL e Google BigQuery**, explorando aproximadamente **49 milhões de registros** do Hacker News por meio de **12 consultas analíticas**. A análise investigou padrões de publicação e engajamento relacionados a score, comentários, autores, domínios e comportamento temporal, incluindo exploração e validação dos dados.
+
+🔗 [Ver projeto](https://github.com/Jucastilla/hacker-news-bigquery-analysis-)
+
 ### Análise da Insatisfação no E-commerce com Python
 
 Projeto de análise de dados desenvolvido em Python no Google Colab, envolvendo tratamento e preparação de dados, análise exploratória, modelagem preditiva e desenvolvimento de dashboard no Looker Studio para identificar fatores relacionados à insatisfação dos consumidores.
