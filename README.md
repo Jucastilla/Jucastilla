@@ -27,7 +27,7 @@ Projeto de análise de dados desenvolvido com **SQL e Google BigQuery**, explora
 
 ### Análise da Insatisfação no E-commerce com Python
 
-Projeto de análise de dados desenvolvido em Python no Google Colab, envolvendo tratamento e preparação de dados, análise exploratória, modelagem preditiva e desenvolvimento de dashboard no Looker Studio para identificar fatores relacionados à insatisfação dos consumidores.
+Projeto de análise de dados desenvolvido em Python com dados públicos da Olist, envolvendo preparação e tratamento de dados, análise exploratória, modelagem preditiva e desenvolvimento de dashboard no Looker Studio para identificar fatores relacionados à insatisfação dos consumidores.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/semantix-data-project/tree/main)
 
