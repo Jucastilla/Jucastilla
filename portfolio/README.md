@@ -1,11 +1,11 @@
-# 📊 Portfólio de Projetos | Júlia Castilla
+# Portfólio de Projetos | Júlia Castilla
 
 Bem-vindo ao meu portfólio de projetos.
 
 Aqui estão reunidos projetos desenvolvidos ao longo da minha formação e prática em Análise de Dados, Business Intelligence e áreas relacionadas, utilizando ferramentas como Python, SQL, Power BI, BigQuery e Looker Studio.
 
 
-## 🗂️ Navegue pelos projetos
+## Navegue pelos projetos
 
 - [📊 Data Analytics](#-data-analytics)
 - [📈 Business Intelligence](#-business-intelligence)
@@ -13,7 +13,7 @@ Aqui estão reunidos projetos desenvolvidos ao longo da minha formação e prát
 - [☁️ Cloud & BigQuery](#️-cloud--bigquery)
 
 
-## 📊 Data Analytics
+## Data Analytics
 
 ### Análise Exploratória de E-commerce
 
@@ -42,7 +42,7 @@ Análise de dados aplicada às publicações e interações da plataforma Hacker
 ➡️ Explorar projeto
 
 
-## 📈 Business Intelligence
+## Business Intelligence
 
 ### Análise Estratégica de Vendas
 
@@ -53,7 +53,7 @@ Dashboard desenvolvido para análise de indicadores de vendas, receita, custos, 
 ➡️ Explorar projeto
 
 
-## 🗄️ SQL & Bancos de Dados
+## SQL & Bancos de Dados
 
 ### Análise de Dados de Restaurante
 
@@ -64,7 +64,7 @@ Projeto de banco de dados envolvendo criação de estrutura relacional, consulta
 ➡️ Explorar projeto
 
 
-## ☁️ Cloud & BigQuery
+## Cloud & BigQuery
 
 ### Análise de Dados da COVID-19
 
@@ -75,7 +75,7 @@ Automação de consultas e processamento de dados utilizando Python integrado ao
 ➡️ Explorar projeto
 
 
-## 🐍 Python & Linux
+## Python & Linux
 
 ### Calculadora em Python e Linux
 
@@ -87,7 +87,7 @@ Projeto desenvolvido para aplicação de conceitos fundamentais de Python, Linux
 
 ---
 
-## 🚧 Portfólio em evolução
+## Portfólio em evolução
 
 Este portfólio é atualizado conforme novos projetos são desenvolvidos e publicados.
 
