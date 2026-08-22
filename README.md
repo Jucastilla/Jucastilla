@@ -1,16 +1,27 @@
 ## Olá 👋
 
 ## Sobre mim
-Sou graduada em Marketing Digital pela Universidade Estácio de Sá, com 6 anos de experiência. Tenho vivência prática em SEO, Análise de Dados, Social Media, Automação, CRM e Tráfego Pago. Também possuo formação em Social Media Manager pela EBAC e atualmente estou finalizando, na mesma instituição, minha formação em Análise de Dados com foco aplicado à área de tecnologia. 
 
+Analista de Dados em formação pela **EBAC**, graduada em **Marketing Digital pela Universidade Estácio de Sá**, com 6 anos de experiência profissional e uma trajetória orientada pela análise de métricas, indicadores e performance.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
+Atualmente, desenvolvo projetos em **Análise de Dados**, aplicando SQL, Python e ferramentas de Business Intelligence em processos de análise exploratória, ETL, limpeza e transformação de dados, modelagem, construção de dashboards e visualizações voltadas à tomada de decisão.
 
+Minha experiência anterior em Marketing Digital complementa meu perfil analítico com visão de negócio e experiência na interpretação de KPIs, análise de performance e identificação de oportunidades.
 
+Busco atuar como **Analista de Dados**, transformando dados em informações que apoiem decisões estratégicas.
+
+## Tecnologias e Ferramentas
+
+**Análise e Programação:** Python • SQL • Pandas • NumPy  
+**Business Intelligence:** Power BI • DAX • Power Query • Looker Studio  
+**Bancos de Dados e Cloud:** MySQL • Google BigQuery  
+**Visualização:** Matplotlib • Seaborn • Plotly • Dash  
+**Dados e Produtividade:** Excel • Google Sheets  
+**Outras ferramentas:** Git • GitHub • Linux
+
+## Meu Portfólio
+
+Projetos desenvolvidos para aplicar conhecimentos de Análise de Dados em diferentes contextos, da preparação e exploração dos dados à construção de análises e visualizações para apoio à tomada de decisão.
 <br>
 
 <a href="https://github.com/Jucastilla/Jucastilla/blob/main/portfolio/README.md">
