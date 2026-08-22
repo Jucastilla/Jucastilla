@@ -37,6 +37,12 @@ Projeto de Business Intelligence desenvolvido no **Power BI**, envolvendo tratam
 
 🔗 [Ver projeto](https://github.com/Jucastilla/analise-vendas-powerbi)
 
+### Análise Exploratória de E-commerce
+
+Projeto de análise de dados desenvolvido com **Python, Pandas, Matplotlib e Seaborn**, envolvendo estatística descritiva e diferentes visualizações para investigar distribuições, correlações e relações entre variáveis de produtos de e-commerce. A análise foi ampliada com um **dashboard em Dash e Plotly** para apresentação dos principais indicadores e resultados.
+
+🔗 [Ver projeto](https://github.com/Jucastilla/dashboard-ecommerce-)
+
 ### Análise de Dados de Restaurante
 
 Projeto desenvolvido em **MySQL** para modelagem, manipulação e análise de dados em um cenário simulado de gestão de restaurante, aplicando banco de dados relacional, consultas SQL, funções de agregação, JOINs, Views e Stored Functions.
