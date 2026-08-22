@@ -1,9 +1,8 @@
-# Portfólio | Júlia Castilla
+# Portfólio de Análise de Dados | Júlia Castilla
 
-Bem-vindo ao meu portfólio.
+Este portfólio reúne projetos desenvolvidos durante minha formação e prática em **Análise de Dados**, aplicando diferentes ferramentas e técnicas para preparação, exploração, modelagem, análise e visualização de dados.
 
-Aqui estão reunidos projetos desenvolvidos ao longo da minha formação e prática, com foco principal em **Análise de Dados**, utilizando diferentes ferramentas para tratamento, análise, visualização e apresentação de dados.
-
+Os projetos abrangem **Python, SQL, Business Intelligence, bancos de dados e visualização**, com foco na transformação de dados em análises que apoiem a compreensão de problemas e a tomada de decisão.
 
 
 ## Projetos
