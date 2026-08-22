@@ -13,31 +13,31 @@ Sou graduada em Marketing Digital pela Universidade Estácio de Sá, com 6 anos 
 
 ## Projetos
 
-### Automação de Consultas de COVID-19 com Python
+### Análise de Dados da COVID-19
 
 Projeto de análise de dados desenvolvido com **Python, SQL, pandas e Google BigQuery**, envolvendo automação de consultas, processamento e validação de dados em DataFrames e exportação das bases processadas nos formatos CSV e Parquet.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/projeto-covid-bigquery)
 
-### Análise de Engajamento do Hacker News com SQL
+### Análise de Engajamento do Hacker News
 
 Projeto de análise de dados desenvolvido com **SQL e Google BigQuery**, explorando aproximadamente **49 milhões de registros** do Hacker News por meio de **12 consultas analíticas** para investigar padrões de publicação e engajamento relacionados a score, comentários, autores, domínios e comportamento temporal.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/hacker-news-bigquery-analysis-)
 
-### Análise da Insatisfação no E-commerce com Python
+### Análise de Insatisfação de Clientes | Olist
 
 Projeto de análise de dados desenvolvido com **Python e dados públicos da Olist**, envolvendo preparação e tratamento dos dados, análise exploratória, modelagem preditiva e desenvolvimento de dashboard no **Looker Studio** para identificar fatores relacionados à insatisfação dos consumidores.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/semantix-data-project/tree/main)
 
-### Análise Estratégica de Vendas com Power BI
+### Análise Estratégica de Vendas 
 
 Projeto de Business Intelligence desenvolvido no **Power BI**, envolvendo tratamento de dados com Power Query, modelagem dimensional, criação de métricas em DAX e desenvolvimento de dashboards para análise de **receita, custos, lucro, margem e desempenho comercial**.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/analise-vendas-powerbi)
 
-### Análise de Dados com SQL
+### Análise de Dados de Restaurante
 
 Projeto desenvolvido em **MySQL** para modelagem, manipulação e análise de dados em um cenário simulado de gestão de restaurante, aplicando banco de dados relacional, consultas SQL, funções de agregação, JOINs, Views e Stored Functions.
 
