@@ -22,10 +22,11 @@ Busco atuar como **Analista de Dados**, transformando dados em informações que
 ## Meu Portfólio
 
 Projetos desenvolvidos para aplicar conhecimentos de Análise de Dados em diferentes contextos, da preparação e exploração dos dados à construção de análises e visualizações para apoio à tomada de decisão.
+
 <br>
 
 <a href="https://github.com/Jucastilla/Jucastilla/blob/main/portfolio/README.md">
-  <img src="./image/portfolio-banner.png" alt="Portfólio | Júlia Castilla" width="100%">
+  <img src="https://raw.githubusercontent.com/Jucastilla/Jucastilla/main/image/portfolio-banner.png" alt="Portfólio | Júlia Castilla" width="100%">
 </a>
 
 <br>
