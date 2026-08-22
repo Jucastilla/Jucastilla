@@ -15,29 +15,31 @@ Sou graduada em Marketing Digital pela Universidade Estácio de Sá, com 6 anos 
 
 ### Automação de Consultas de COVID-19 com Python
 
-Projeto de análise de dados desenvolvido com **Python, SQL, pandas e Google BigQuery**, envolvendo automação de consultas, processamento dos resultados em DataFrames, tratamento e validação dos dados e exportação das bases processadas nos formatos CSV e Parquet.
+Projeto de análise de dados desenvolvido com **Python, SQL, pandas e Google BigQuery**, envolvendo automação de consultas, processamento e validação de dados em DataFrames e exportação das bases processadas nos formatos CSV e Parquet.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/projeto-covid-bigquery)
 
 ### Análise de Engajamento do Hacker News com SQL
 
-Projeto de análise de dados desenvolvido com **SQL e Google BigQuery**, explorando aproximadamente **49 milhões de registros** do Hacker News por meio de **12 consultas analíticas**. A análise investigou padrões de publicação e engajamento relacionados a score, comentários, autores, domínios e comportamento temporal, incluindo exploração e validação dos dados.
+Projeto de análise de dados desenvolvido com **SQL e Google BigQuery**, explorando aproximadamente **49 milhões de registros** do Hacker News por meio de **12 consultas analíticas** para investigar padrões de publicação e engajamento relacionados a score, comentários, autores, domínios e comportamento temporal.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/hacker-news-bigquery-analysis-)
 
 ### Análise da Insatisfação no E-commerce com Python
 
-Projeto de análise de dados desenvolvido em Python com dados públicos da Olist, envolvendo preparação e tratamento de dados, análise exploratória, modelagem preditiva e desenvolvimento de dashboard no Looker Studio para identificar fatores relacionados à insatisfação dos consumidores.
+Projeto de análise de dados desenvolvido com **Python e dados públicos da Olist**, envolvendo preparação e tratamento dos dados, análise exploratória, modelagem preditiva e desenvolvimento de dashboard no **Looker Studio** para identificar fatores relacionados à insatisfação dos consumidores.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/semantix-data-project/tree/main)
 
 ### Análise Estratégica de Vendas com Power BI
-Projeto de Business Intelligence desenvolvido no Power BI, envolvendo tratamento de dados no Power Query, modelagem dimensional, criação de métricas em DAX e desenvolvimento de dashboards para análise de faturamento, custos, lucro e desempenho comercial.
+
+Projeto de Business Intelligence desenvolvido no **Power BI**, envolvendo tratamento de dados com Power Query, modelagem dimensional, criação de métricas em DAX e desenvolvimento de dashboards para análise de **receita, custos, lucro, margem e desempenho comercial**.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/analise-vendas-powerbi)
 
 ### Análise de Dados com SQL
-Projeto desenvolvido em MySQL para modelagem, manipulação e análise de dados em um cenário de gestão de restaurante, aplicando conceitos de banco de dados relacional, consultas SQL, funções de agregação, JOINs, Views e Stored Functions para geração de informações e apoio à tomada de decisão.
+
+Projeto desenvolvido em **MySQL** para modelagem, manipulação e análise de dados em um cenário simulado de gestão de restaurante, aplicando banco de dados relacional, consultas SQL, funções de agregação, JOINs, Views e Stored Functions.
 
 🔗 [Ver projeto](https://github.com/Jucastilla/analise-dados-restaurante-sql)
 
