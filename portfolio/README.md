@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio.
 
 Aqui estão reunidos projetos desenvolvidos ao longo da minha formação e prática, com foco principal em **Análise de Dados**, utilizando diferentes ferramentas para tratamento, análise, visualização e apresentação de dados.
 
----
+
 
 ## Projetos
 
@@ -16,7 +16,7 @@ Projeto de análise de dados envolvendo automação de consultas, processamento 
 
 [Ver projeto](https://github.com/Jucastilla/projeto-covid-bigquery)
 
----
+
 
 ### Análise de Engajamento do Hacker News
 
@@ -26,7 +26,7 @@ Análise de aproximadamente **49 milhões de registros** do Hacker News por meio
 
 [Ver projeto](https://github.com/Jucastilla/hacker-news-bigquery-analysis-)
 
----
+
 
 ### Análise de Insatisfação de Clientes da Olist
 
@@ -36,7 +36,7 @@ Projeto envolvendo preparação e tratamento de dados públicos da Olist, análi
 
 [Ver projeto](https://github.com/Jucastilla/semantix-data-project/tree/main)
 
----
+
 
 ### Análise Estratégica de Vendas
 
@@ -46,7 +46,7 @@ Projeto de Business Intelligence envolvendo tratamento de dados, modelagem dimen
 
 [Ver projeto](https://github.com/Jucastilla/analise-vendas-powerbi)
 
----
+
 
 ### Análise Exploratória de E-commerce
 
@@ -56,7 +56,7 @@ Projeto de análise exploratória envolvendo estatística descritiva e diferente
 
 [Ver projeto](https://github.com/Jucastilla/dashboard-ecommerce-)
 
----
+
 
 ### Análise de Dados de Restaurante
 
@@ -66,7 +66,7 @@ Projeto de modelagem, manipulação e análise de dados em um cenário simulado 
 
 [Ver projeto](https://github.com/Jucastilla/analise-dados-restaurante-sql)
 
----
+
 
 ### Calculadora em Python e Linux
 
@@ -76,7 +76,7 @@ Projeto aplicando conceitos fundamentais de lógica de programação e automaç�
 
 [Ver projeto](https://github.com/Jucastilla/calculadora-python-linux)
 
----
+
 
 ## Portfólio em evolução
 
