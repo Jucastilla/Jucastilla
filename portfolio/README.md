@@ -4,7 +4,6 @@ Bem-vindo ao meu portfólio de projetos.
 
 Aqui estão reunidos projetos desenvolvidos ao longo da minha formação e prática em Análise de Dados, Business Intelligence e áreas relacionadas, utilizando ferramentas como Python, SQL, Power BI, BigQuery e Looker Studio.
 
----
 
 ## 🗂️ Navegue pelos projetos
 
@@ -13,7 +12,6 @@ Aqui estão reunidos projetos desenvolvidos ao longo da minha formação e prát
 - [🗄️ SQL & Bancos de Dados](#️-sql--bancos-de-dados)
 - [☁️ Cloud & BigQuery](#️-cloud--bigquery)
 
----
 
 ## 📊 Data Analytics
 
@@ -25,7 +23,6 @@ Análise exploratória de dados de e-commerce com desenvolvimento de visualizaç
 
 ➡️ [Explorar projeto](https://github.com/Jucastilla/dashboard-ecommerce-)
 
----
 
 ### Análise de Insatisfação de Clientes — Olist
 
@@ -35,7 +32,6 @@ Projeto voltado à análise de dados de clientes e identificação de fatores re
 
 ➡️ Explorar projeto
 
----
 
 ### Análise de Dados do Hacker News
 
@@ -45,7 +41,6 @@ Análise de dados aplicada às publicações e interações da plataforma Hacker
 
 ➡️ Explorar projeto
 
----
 
 ## 📈 Business Intelligence
 
@@ -57,7 +52,6 @@ Dashboard desenvolvido para análise de indicadores de vendas, receita, custos, 
 
 ➡️ Explorar projeto
 
----
 
 ## 🗄️ SQL & Bancos de Dados
 
@@ -69,7 +63,6 @@ Projeto de banco de dados envolvendo criação de estrutura relacional, consulta
 
 ➡️ Explorar projeto
 
----
 
 ## ☁️ Cloud & BigQuery
 
@@ -81,7 +74,6 @@ Automação de consultas e processamento de dados utilizando Python integrado ao
 
 ➡️ Explorar projeto
 
----
 
 ## 🐍 Python & Linux
 
