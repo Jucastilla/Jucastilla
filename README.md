@@ -25,7 +25,7 @@ Projeto de análise de dados desenvolvido com **SQL e Google BigQuery**, explora
 
 🔗 [Ver projeto](https://github.com/Jucastilla/hacker-news-bigquery-analysis-)
 
-### Análise de Insatisfação de Clientes | Olist
+### Análise de Insatisfação de Clientes da Olist
 
 Projeto de análise de dados desenvolvido com **Python e dados públicos da Olist**, envolvendo preparação e tratamento dos dados, análise exploratória, modelagem preditiva e desenvolvimento de dashboard no **Looker Studio** para identificar fatores relacionados à insatisfação dos consumidores.
 
