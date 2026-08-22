@@ -11,7 +11,13 @@ Sou graduada em Marketing Digital pela Universidade Estácio de Sá, com 6 anos 
 </div>
 
 
-## Projetos
+<br>
+
+<a href="https://github.com/Jucastilla/Jucastilla/blob/main/portfolio/README.md">
+  <img src="./portfolio-banner.png" alt="Portfólio | Júlia Castilla" width="100%">
+</a>
+
+<br>
 
 ### Análise de Dados da COVID-19
 
