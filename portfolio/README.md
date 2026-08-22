@@ -1,89 +1,80 @@
-# Portfólio de Projetos | Júlia Castilla
+# Portfólio | Júlia Castilla
 
-Bem-vindo ao meu portfólio de projetos.
+Bem-vindo ao meu portfólio.
 
-Aqui estão reunidos projetos desenvolvidos ao longo da minha formação e prática em Análise de Dados, Business Intelligence e áreas relacionadas, utilizando ferramentas como Python, SQL, Power BI, BigQuery e Looker Studio.
+Aqui estão reunidos projetos desenvolvidos ao longo da minha formação e prática, com foco principal em **Análise de Dados**, utilizando diferentes ferramentas para tratamento, análise, visualização e apresentação de dados.
 
+---
 
-## Navegue pelos projetos
+## Projetos
 
-- [📊 Data Analytics](#-data-analytics)
-- [📈 Business Intelligence](#-business-intelligence)
-- [🗄️ SQL & Bancos de Dados](#️-sql--bancos-de-dados)
-- [☁️ Cloud & BigQuery](#️-cloud--bigquery)
+### Análise de Dados da COVID-19
 
+**Tecnologias:** Python • SQL • Pandas • Google BigQuery
 
-## Data Analytics
+Projeto de análise de dados envolvendo automação de consultas, processamento e validação de dados em DataFrames e exportação das bases processadas nos formatos CSV e Parquet.
 
-### Análise Exploratória de E-commerce
+[Ver projeto](https://github.com/Jucastilla/projeto-covid-bigquery)
 
-**Tecnologias:** Python • Pandas • Dash • Plotly
+---
 
-Análise exploratória de dados de e-commerce com desenvolvimento de visualizações e dashboard interativo.
+### Análise de Engajamento do Hacker News
 
-➡️ [Explorar projeto](https://github.com/Jucastilla/dashboard-ecommerce-)
+**Tecnologias:** SQL • Google BigQuery
 
+Análise de aproximadamente **49 milhões de registros** do Hacker News por meio de **12 consultas analíticas**, investigando padrões de publicação e engajamento relacionados a score, comentários, autores, domínios e comportamento temporal.
 
-### Análise de Insatisfação de Clientes — Olist
+[Ver projeto](https://github.com/Jucastilla/hacker-news-bigquery-analysis-)
+
+---
+
+### Análise de Insatisfação de Clientes da Olist
 
 **Tecnologias:** Python • Machine Learning • Looker Studio
 
-Projeto voltado à análise de dados de clientes e identificação de fatores relacionados à insatisfação.
+Projeto envolvendo preparação e tratamento de dados públicos da Olist, análise exploratória, modelagem preditiva e desenvolvimento de dashboard para identificação de fatores relacionados à insatisfação dos consumidores.
 
-➡️ Explorar projeto
+[Ver projeto](https://github.com/Jucastilla/semantix-data-project/tree/main)
 
-
-### Análise de Dados do Hacker News
-
-**Tecnologias:** Python • Análise de Dados
-
-Análise de dados aplicada às publicações e interações da plataforma Hacker News.
-
-➡️ Explorar projeto
-
-
-## Business Intelligence
+---
 
 ### Análise Estratégica de Vendas
 
 **Tecnologias:** Power BI • Power Query • DAX
 
-Dashboard desenvolvido para análise de indicadores de vendas, receita, custos, lucro e margem.
+Projeto de Business Intelligence envolvendo tratamento de dados, modelagem dimensional, criação de métricas e desenvolvimento de dashboards para análise de **receita, custos, lucro, margem e desempenho comercial**.
 
-➡️ Explorar projeto
+[Ver projeto](https://github.com/Jucastilla/analise-vendas-powerbi)
 
+---
 
-## SQL & Bancos de Dados
+### Análise Exploratória de E-commerce
+
+**Tecnologias:** Python • Pandas • Matplotlib • Seaborn • Dash • Plotly
+
+Projeto de análise exploratória envolvendo estatística descritiva e diferentes visualizações para investigar distribuições, correlações e relações entre variáveis de produtos de e-commerce. A análise foi ampliada com um dashboard interativo para apresentação dos principais indicadores e resultados.
+
+[Ver projeto](https://github.com/Jucastilla/dashboard-ecommerce-)
+
+---
 
 ### Análise de Dados de Restaurante
 
-**Tecnologias:** SQL • Views • Joins • Functions
+**Tecnologias:** MySQL • SQL
 
-Projeto de banco de dados envolvendo criação de estrutura relacional, consultas, agregações, joins, views e funções.
+Projeto de modelagem, manipulação e análise de dados em um cenário simulado de gestão de restaurante, aplicando banco de dados relacional, consultas SQL, funções de agregação, JOINs, Views e Stored Functions.
 
-➡️ Explorar projeto
+[Ver projeto](https://github.com/Jucastilla/analise-dados-restaurante-sql)
 
-
-## Cloud & BigQuery
-
-### Análise de Dados da COVID-19
-
-**Tecnologias:** Python • SQL • Google BigQuery • Pandas
-
-Automação de consultas e processamento de dados utilizando Python integrado ao Google BigQuery.
-
-➡️ Explorar projeto
-
-
-## Python & Linux
+---
 
 ### Calculadora em Python e Linux
 
-**Tecnologias:** Python • Linux • Shell
+**Tecnologias:** Python • Shell Script • Linux
 
-Projeto desenvolvido para aplicação de conceitos fundamentais de Python, Linux e execução de scripts.
+Projeto aplicando conceitos fundamentais de lógica de programação e automação em linha de comando, incluindo uma calculadora interativa em Python e um script Shell para execução via terminal.
 
-➡️ Explorar projeto
+[Ver projeto](https://github.com/Jucastilla/calculadora-python-linux)
 
 ---
 
