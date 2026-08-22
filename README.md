@@ -1,4 +1,4 @@
-## Olá 👋
+## Olá 
 
 ## Sobre mim
 
@@ -25,7 +25,7 @@ Projetos desenvolvidos para aplicar conhecimentos de Análise de Dados em difere
 <br>
 
 <a href="https://github.com/Jucastilla/Jucastilla/blob/main/portfolio/README.md">
-  <img src="./portfolio-banner.png" alt="Portfólio | Júlia Castilla" width="100%">
+  <img src="./imagem/portfolio-banner.png" alt="Portfólio | Júlia Castilla" width="100%">
 </a>
 
 <br>
