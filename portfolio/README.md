@@ -7,6 +7,14 @@ Os projetos abrangem **Python, SQL, Business Intelligence, bancos de dados e vis
 
 ## Projetos
 
+### London Crime Analysis
+
+Análise da evolução e distribuição dos crimes registrados em Londres entre 2008 e 2016, com validação dos dados utilizando Python, SQL e Google BigQuery e desenvolvimento de dashboard no Power BI para análise por categorias, distritos e identificação de áreas prioritárias.
+
+**Tecnologias:** Python | SQL | Google BigQuery | Power BI
+
+🔗 [Ver projeto no GitHub](COLE_AQUI_O_LINK_DO_REPOSITORIO)
+
 ### Análise de Dados da COVID-19
 
 **Tecnologias:** Python • SQL • Pandas • Google BigQuery
