@@ -13,7 +13,7 @@ Análise da evolução e distribuição dos crimes registrados em Londres entre 
 
 **Tecnologias:** Python | SQL | Google BigQuery | Power BI
 
-🔗 [Ver projeto no GitHub](COLE_AQUI_O_LINK_DO_REPOSITORIO)
+[Ver projeto]([COLE_AQUI_O_LINK_DO_REPOSITORIO](https://github.com/Jucastilla/london-crime-analysis))
 
 ### Análise de Dados da COVID-19
 
