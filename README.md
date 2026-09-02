@@ -14,7 +14,7 @@ Busco atuar como **Analista de Dados**, transformando dados em **análises e rec
 
 **Análise e Programação:** Python • SQL • pandas • NumPy  
 **Business Intelligence:** Power BI • DAX • Power Query • Looker Studio  
-**Bancos de Dados e Cloud:** Google BigQuery • MySQL  
+**Bancos de Dados:** Google BigQuery • MySQL 
 **Análise e Visualização:** EDA • Estatística Descritiva • Matplotlib • Seaborn • Plotly • Dash  
 **Machine Learning:** Regressão Logística • Random Forest  
 **Dados e Produtividade:** Excel • Google Sheets  
@@ -22,7 +22,7 @@ Busco atuar como **Analista de Dados**, transformando dados em **análises e rec
 
 ## Meu Portfólio
 
-Projetos de Análise de Dados desenvolvidos em diferentes contextos de negócio, envolvendo exploração, tratamento e validação de dados, SQL, programação, Business Intelligence, Machine Learning e visualização, com foco na transformação de dados em análises que apoiem a tomada de decisão.
+Projetos de **Análise de Dados** desenvolvidos em diferentes contextos de negócio, envolvendo **exploração, tratamento e validação de dados, SQL, programação, Business Intelligence, Machine Learning e visualização**, com foco na transformação de dados em **análises que apoiem a tomada de decisão**.
 
 <br>
 
