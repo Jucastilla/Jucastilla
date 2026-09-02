@@ -1,14 +1,15 @@
-## Olá 
+## Olá, sou Júlia
+Analista de Dados | SQL • Python • Power BI • Google BigQuery
 
 ## Sobre mim
 
-Analista de Dados em formação pela **EBAC**, graduada em **Marketing Digital pela Universidade Estácio de Sá**, com 6 anos de experiência profissional e uma trajetória orientada pela análise de métricas, indicadores e performance.
+Analista de Dados em formação pela EBAC, graduada em Marketing Digital pela Universidade Estácio de Sá, com trajetória profissional orientada pela análise de métricas, indicadores e performance.
 
-Atualmente, desenvolvo projetos em **Análise de Dados**, aplicando SQL, Python e ferramentas de Business Intelligence em processos de análise exploratória, ETL, limpeza e transformação de dados, modelagem, construção de dashboards e visualizações voltadas à tomada de decisão.
+Atualmente, desenvolvo projetos em Análise de Dados, utilizando SQL, Python, Power BI, Google BigQuery e pandas em processos de exploração, tratamento e validação de dados, análise de grandes volumes de dados, construção de dashboards e desenvolvimento de análises voltadas a problemas de negócio.
 
-Minha experiência anterior em Marketing Digital complementa meu perfil analítico com visão de negócio e experiência na interpretação de KPIs, análise de performance e identificação de oportunidades.
+Minha experiência anterior em Marketing Digital complementa meu perfil analítico com visão de negócio e experiência em análise de KPIs, performance, comportamento e identificação de oportunidades.
 
-Busco atuar como **Analista de Dados**, transformando dados em informações que apoiem decisões estratégicas.
+Busco atuar como Analista de Dados, transformando dados em análises e recomendações que apoiem a tomada de decisão.
 
 ## Tecnologias e Ferramentas
 
@@ -21,7 +22,7 @@ Busco atuar como **Analista de Dados**, transformando dados em informações que
 
 ## Meu Portfólio
 
-Projetos desenvolvidos para aplicar conhecimentos de Análise de Dados em diferentes contextos, da preparação e exploração dos dados à construção de análises e visualizações para apoio à tomada de decisão.
+Projetos de Análise de Dados desenvolvidos em diferentes contextos de negócio, envolvendo exploração, tratamento e validação de dados, SQL, programação, Business Intelligence, Machine Learning e visualização, com foco na transformação de dados em análises que apoiem a tomada de decisão.
 
 <br>
 
