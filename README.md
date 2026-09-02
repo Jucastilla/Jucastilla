@@ -1,5 +1,4 @@
-## Olá, sou Júlia
-Analista de Dados | SQL • Python • Power BI • Google BigQuery
+## Olá
 
 ## Sobre mim
 
@@ -13,12 +12,13 @@ Busco atuar como Analista de Dados, transformando dados em análises e recomenda
 
 ## Tecnologias e Ferramentas
 
-**Análise e Programação:** Python • SQL • Pandas • NumPy  
+**Análise e Programação:** Python • SQL • pandas • NumPy  
 **Business Intelligence:** Power BI • DAX • Power Query • Looker Studio  
-**Bancos de Dados e Cloud:** MySQL • Google BigQuery  
-**Visualização:** Matplotlib • Seaborn • Plotly • Dash  
+**Bancos de Dados e Cloud:** Google BigQuery • MySQL  
+**Análise e Visualização:** EDA • Estatística Descritiva • Matplotlib • Seaborn • Plotly • Dash  
+**Machine Learning:** Regressão Logística • Random Forest  
 **Dados e Produtividade:** Excel • Google Sheets  
-**Outras ferramentas:** Git • GitHub • Linux
+**Desenvolvimento:** Git • GitHub • Linux • Jupyter Notebook • Visual Studio Code
 
 ## Meu Portfólio
 
