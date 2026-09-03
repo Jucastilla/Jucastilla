@@ -7,6 +7,14 @@ Os projetos abrangem **Python, SQL, Business Intelligence, bancos de dados e vis
 
 ## Projetos
 
+### Análise do Mercado Publicitário Audiovisual — ANCINE
+
+Análise de dados públicos da ANCINE sobre obras publicitárias audiovisuais, envolvendo consolidação de 164 arquivos CSV, tratamento e análise exploratória dos dados, cruzamento entre bases e desenvolvimento de dashboard no Looker Studio.
+
+**Tecnologias:** Python | Pandas | Google BigQuery | Looker Studio
+
+[Ver projeto](https://github.com/Jucastilla/analise-mercado-publicitario-ancine)
+
 ### London Crime Analysis
 
 Análise da evolução e distribuição dos crimes registrados em Londres entre 2008 e 2016, com validação dos dados utilizando Python, SQL e Google BigQuery e desenvolvimento de dashboard no Power BI para análise por categorias, distritos e identificação de áreas prioritárias.
