@@ -7,7 +7,7 @@ Os projetos abrangem **Python, SQL, Business Intelligence, bancos de dados e vis
 
 ## Projetos
 
-### Análise do Mercado Publicitário Audiovisual — ANCINE
+### Análise do Mercado Publicitário Audiovisual 
 
 Análise de dados públicos da ANCINE sobre obras publicitárias audiovisuais, envolvendo consolidação de 164 arquivos CSV, tratamento e análise exploratória dos dados, cruzamento entre bases e desenvolvimento de dashboard no Looker Studio.
 
