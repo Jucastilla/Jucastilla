@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-**Analista de Dados em formação pela EBAC**, graduada em **Marketing Digital pela Universidade Estácio de Sá**, com trajetória profissional orientada pela **análise de métricas, indicadores e performance**.
+**Profissional de Dados**, com formação profissional em **Análise de Dados pela EBAC** e graduação em **Marketing Digital pela Universidade Estácio de Sá**, com trajetória profissional orientada à **análise de métricas, indicadores e performance**.
 
 Atualmente, desenvolvo projetos em **Análise de Dados**, utilizando **SQL, Python, Power BI, Google BigQuery e pandas** em processos de **exploração, tratamento e validação de dados**, análise de grandes volumes de dados, construção de dashboards e desenvolvimento de análises voltadas a **problemas de negócio**.
 
