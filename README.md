@@ -18,7 +18,7 @@ Busco atuar como **Analista de Dados**, transformando dados em **análises e rec
 **Business Intelligence e Visualização:** Power BI • DAX • Power Query • Looker Studio • Matplotlib • Seaborn • Plotly • Dash • Streamlit  
 **Bancos e Engenharia de Dados:** Google BigQuery • MySQL • Modelagem de Dados • ETL • Limpeza e Validação de Dados  
 **Machine Learning:** Regressão Logística • Random Forest  
-**Ferramentas de Dados:** Excel • Google Sheets • Google Analytics (GA4) • Google Search Console • Git • GitHub • Linux • Jupyter Notebook • Visual Studio Code
+**Ferramentas de Dados e Desenvolvimento:** Excel • Google Sheets • Google Analytics (GA4) • Google Search Console • Git • GitHub • Linux • Jupyter Notebook • Google Colab • Visual Studio Code
 
 ## Meu Portfólio
 
