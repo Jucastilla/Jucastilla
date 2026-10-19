@@ -4,7 +4,9 @@
 
 **Profissional de Dados**, com formação profissional em **Análise de Dados pela EBAC** e graduação em **Marketing Digital pela Universidade Estácio de Sá**, com trajetória profissional orientada à **análise de métricas, indicadores e performance**.
 
-Atualmente, desenvolvo projetos em **Análise de Dados**, utilizando **SQL, Python, Power BI, Google BigQuery e pandas** em processos de **exploração, tratamento e validação de dados**, análise de grandes volumes de dados, construção de dashboards e desenvolvimento de análises voltadas a **problemas de negócio**.
+Atualmente, atuo como **Analista de Dados voluntária no Projeto Nossa Entrega**, desenvolvendo análises de dados relacionadas à **participação de voluntários e à logística de ações sociais**.
+
+Também desenvolvo projetos utilizando **SQL, Python, Power BI, Google BigQuery e pandas**, aplicando técnicas de **exploração, tratamento e validação de dados, construção de dashboards e identificação de oportunidades de melhoria**.
 
 Minha experiência anterior em **Marketing Digital** complementa meu perfil analítico com **visão de negócio** e experiência em análise de **KPIs, performance, comportamento e identificação de oportunidades**.
 
