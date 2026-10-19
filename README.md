@@ -14,12 +14,22 @@ Busco atuar como **Analista de Dados**, transformando dados em **análises e rec
 
 ## Tecnologias e Ferramentas
 
-**Análise e Programação:** Python • SQL • pandas • NumPy  
-**Business Intelligence:** Power BI • DAX • Power Query • Looker Studio  
-**Bancos de Dados:** Google BigQuery • MySQL  
-**Análise e Visualização:** EDA • Estatística Descritiva • Matplotlib • Seaborn • Plotly • Dash  
-**Machine Learning:** Regressão Logística • Random Forest  
-**Dados e Produtividade:** Excel • Google Sheets  
+**Análise e Programação:** Python • SQL • pandas • NumPy
+
+**Business Intelligence:** Power BI • DAX • Power Query • Looker Studio
+
+**Bancos de Dados:** Google BigQuery • MySQL • Modelagem de Dados
+
+**Análise e Visualização:** EDA • Estatística Descritiva • Estatística Aplicada • Matplotlib • Seaborn • Plotly • Dash • Streamlit
+
+**Machine Learning:** Regressão Logística • Random Forest
+
+**Engenharia e Tratamento de Dados:** ETL • Limpeza, Transformação e Validação de Dados
+
+**Web Analytics:** Google Analytics (GA4) • Google Search Console
+
+**Dados e Produtividade:** Excel • Google Sheets
+
 **Desenvolvimento:** Git • GitHub • Linux • Jupyter Notebook • Visual Studio Code
 
 ## Meu Portfólio
